@@ -1,0 +1,31 @@
+_repo: Dyre-Rein-Kertomus-isoisan-isan-talosta_57552
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Helve, Anton
+    gutenberg_agent_id: '47267'
+    url: http://www.gutenberg.org/2009/agents/47267
+creator:
+  author:
+    agent_name: Lie, Jonas
+    alias: Lie, Jonas Lauritz Idemil
+    birthdate: 1833
+    deathdate: 1908
+    gutenberg_agent_id: '5095'
+    url: http://www.gutenberg.org/2009/agents/5095
+    wikipedia: http://en.wikipedia.org/wiki/Jonas_Lie
+description: ''
+gutenberg_issued: '2018-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57552'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Dyre Rein
+
+  Kertomus isoisän isän talosta'
+url: http://www.gutenberg.org/ebooks/57552
